@@ -39,6 +39,14 @@ const studentsListData = [
         email: 'Maximillian.Jacobson@gmail.com',
         color: 'purple'
     },
+    {
+        id: 6,
+        firstName: 'Popescu',
+        lastName: 'Gheorghe',
+        course: 'Backend',
+        email: 'gheorghe@yahoo.com',
+        color: 'black'
+    }
 ];
 
 export default studentsListData;
